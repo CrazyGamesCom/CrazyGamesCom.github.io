@@ -1,9 +1,9 @@
 const cacheName = "pigbrain.io-Breaker-0.1.0";
 const contentToCache = [
-    "Build/f803ac7ad3d536a6046281d363e7f88f.loader.js",
-    "Build/992b024e6f0bfb5431e9900f2e00c21b.framework.js.unityweb",
-    "Build/b4035b0f601bbb33ef6d5a7608606fc7.data.unityweb",
-    "Build/64b6ec2049edccf1e3d519893456a4c3.wasm.unityweb",
+    "Build/fc12e8940117d42879f5725b1d9e2506.loader.js",
+    "Build/9af4535a4ca74e4e1da41d25d51620e1.framework.js.unityweb",
+    "Build/a8446ece0292f3320d50fc66c331e116.data.unityweb",
+    "Build/8a4aa82d5d59cc8567691c69f5290f00.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
