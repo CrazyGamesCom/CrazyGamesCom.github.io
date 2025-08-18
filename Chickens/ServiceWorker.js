@@ -1,9 +1,9 @@
-const cacheName = "pigbrain.io-Chickens-0.1.16";
+const cacheName = "pigbrain.io-Chickens-0.1.18";
 const contentToCache = [
-    "Build/de64ad5044833a1ea52386ffd0ca611e.loader.js",
+    "Build/c8dee0472b5a5483db96205cc977052e.loader.js",
     "Build/b36b4c827d3868f323b0b5622fc6549e.framework.js.unityweb",
-    "Build/4ed479376b362e9baec5bf5e92bddaf1.data.unityweb",
-    "Build/ec5773894af0542ce11e8b7b87d3ef75.wasm.unityweb",
+    "Build/7783e283cba81b4c5b6c4b32bf5ddce2.data.unityweb",
+    "Build/e87748aed964bc0533e110905a924cea.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
