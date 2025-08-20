@@ -1,11 +1,11 @@
 {
-    "name": "empty",
-    "short_name": "empty",
+    "name": "Breaker",
+    "short_name": "Breaker",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "crazygames core test",
+    "description": "pigbrain.io Unity 6.1.4 Prototype",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
