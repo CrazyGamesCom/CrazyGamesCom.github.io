@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-empty-0.1.11";
+const cacheName = "DefaultCompany-empty-0.1.12";
 const contentToCache = [
-    "Build/f1551dfe7e2c42a24bb896c2ead10ef7.loader.js",
-    "Build/19b6b7c4adca116a63fb056538f8838b.framework.js.unityweb",
-    "Build/2ce2385f0cdb8a1bd2ce0982aaf5abf0.data.unityweb",
-    "Build/59a82ace70de002a7d2dc0d337b06458.wasm.unityweb",
+    "Build/e9f9e0103e2229beba99fbf789eaf512.loader.js",
+    "Build/0b8c8deadef9b168800f70e3b0e7a548.framework.js.unityweb",
+    "Build/a1ad5af0a035c7e90983474258d492bd.data.unityweb",
+    "Build/a4f5b948c7b52bf8d31b9a99fd5bbf6e.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
