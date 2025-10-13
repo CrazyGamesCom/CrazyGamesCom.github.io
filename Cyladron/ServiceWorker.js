@@ -1,9 +1,9 @@
-const cacheName = "com.crazygames-Cyladron-0.1.28";
+const cacheName = "com.crazygames-Cyladron-0.1.44";
 const contentToCache = [
-    "Build/9c87547c9a24b5ea3d6cf9536e4f6a34.loader.js",
-    "Build/6772b3b04a94fa0dad2fc1536bd5e579.framework.js.unityweb",
-    "Build/e6ac1c1e691ab2dc06e978ab4544e149.data.unityweb",
-    "Build/6bb9b5454f9718d5742dc1885b8678f2.wasm.unityweb",
+    "Build/06861f7c1d62398076672c5062a396df.loader.js",
+    "Build/2e39eb098f1b7b4feb4c48dad981a739.framework.js.unityweb",
+    "Build/a002b23a80696dfbbe425dc0dbf6443a.data.unityweb",
+    "Build/76b54c38edc8d11899321a64701c0cdf.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
